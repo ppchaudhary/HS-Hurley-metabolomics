@@ -1,6 +1,6 @@
 # Metabolomic survey of skin and serum across Hurley stages of hidradenitis suppurativa
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24123047.svg)](https://doi.org/10.5281/zenodo.24123047)
 
 Analysis code for the research letter *"A descriptive metabolomic survey of skin and serum across Hurley stages of hidradenitis suppurativa"* (Chaudhary PP, et al.; submitted to the *Journal of Investigative Dermatology*).
 
@@ -58,7 +58,13 @@ The input feature tables are not included in this repository. They are available
 
 ## Citation
 
-If you use this code, please cite the letter (citation to be added on publication) and the archived code (DOI above). Please also cite the software listed in the Supplementary Materials and Methods.
+## Citation
+
+If you use this code in your research, please cite the associated research letter (citation will be added upon publication) and the archived code available on Zenodo:
+
+**DOI:** [10.5281/zenodo.24123047](https://doi.org/10.5281/zenodo.24123047)
+
+Please also cite the relevant software tools listed in the Supplementary Materials and Methods.
 
 ## Contact
 
